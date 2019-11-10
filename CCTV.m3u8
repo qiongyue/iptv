@@ -13,32 +13,32 @@ http://ivi.bupt.edu.cn/hls/cctv5hd.m3u8
 http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7军事农业
 http://ivi.bupt.edu.cn/hls/cctv7.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/CCTV-8电视剧.png" group-title="CHINA",CCTV-8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/CCTV-8电视剧.png" group-title="央视",CCTV-8
 http://ivi.bupt.edu.cn/hls/cctv8.m3u8
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/CCTV-9纪录.png" group-title="CHINA",CCTV-9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/CCTV-9纪录.png" group-title="央视",CCTV-9
 http://ivi.bupt.edu.cn/hls/cctv9.m3u8
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/CCTV-10科教.png" group-title="CHINA",CCTV-10
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/CCTV-10科教.png" group-title="央视",CCTV-10
 http://ivi.bupt.edu.cn/hls/cctv10.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/svQpgoL.png" group-title="CHINA",CCTV-11
+#EXTINF:-1 tvg-logo="https://i.imgur.com/svQpgoL.png" group-title="央视",CCTV-11
 http://ivi.bupt.edu.cn/hls/cctv11.m3u8
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/CCTV-12社会与法.png" group-title="CHINA",CCTV-12
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/CCTV-12社会与法.png" group-title="央视",CCTV-12
 http://ivi.bupt.edu.cn/hls/cctv12.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ksFTF0t.png" group-title="CHINA",CCTV-13 (Opt-1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ksFTF0t.png" group-title="央视",CCTV-13 (Opt-1)
 http://ivi.bupt.edu.cn/hls/cctv13.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ksFTF0t.png" group-title="CHINA",CCTV-13 (Opt-2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ksFTF0t.png" group-title="央视",CCTV-13 (Opt-2)
 rtmp://ivi.bupt.edu.cn:1935/livetv/cctv13
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ksFTF0t.png" group-title="CHINA",CCTV-13 (Opt-3)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ksFTF0t.png" group-title="央视",CCTV-13 (Opt-3)
 rtmp://124.88.36.91:1935/live/cctv
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/CCTV-14少儿.png" group-title="CHINA",CCTV-14
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/CCTV-14少儿.png" group-title="央视",CCTV-14
 http://ivi.bupt.edu.cn/hls/cctv14.m3u8
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/CCTV-15音乐.png" group-title="CHINA",CCTV-15
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/CCTV-15音乐.png" group-title="央视",CCTV-15
 http://ivi.bupt.edu.cn/hls/cctv15.m3u8
