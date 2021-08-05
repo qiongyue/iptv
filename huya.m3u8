@@ -53,3 +53,6 @@ http://39.135.138.8:6610/PLTV/88888888/224/3221225637/2/index.m3u8?fmt=ts2hls
 http://39.135.138.8:6610/PLTV/88888888/224/3221225640/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1,CCTV-17 农业农村 高清
 http://39.135.138.8:6610/PLTV/88888888/224/3221225909/2/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1,奥运直播
+https://mgsp-ksc.live.miguvideo.com/wd_ls/ych/ychb/1200/01.m3u8?msisdn=c5edbc48ecdc62830521162462e3c4bb&mdspid=&spid=800033&netType=0&sid=5500037408&pid=2028597139&timestamp=20210805194808&Channel_ID=0132_10010001005&ProgramID=619529138&ParentNodeID=-99&assertID=5500037408&client_ip=27.45.206.126&SecurityKey=20210805194808&mvid=5100033288&mcid=500020&mpid=&playurlVersion=SJ-A1-4.7.1&userid=&jmhm=&videocodec=h264&bean=mgspwww&encrypt=b2a3431150787a2b1819fc01d05e1a2e&HlsSubType=1&HlsProfileId=1&nphaid=0&mtv_session=3e0343f0eb775a7532bbc66365063588
